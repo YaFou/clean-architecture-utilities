@@ -1,0 +1,25 @@
+{
+    "name": "yafou/clean-architecture-utilities",
+    "homepage": "https://github.com/YaFou/clean-architecture-utilities",
+    "description": "Powerful tools to create your own business logic",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yannis Foucher",
+            "homepage": "https://github.com/YaFou"
+        }
+    ],
+    "prefer-stable": true,
+    "require": {
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5.8"
+    },
+    "config": {
+        "sort-packages": true,
+        "preferred-install": {
+            "*": "dist"
+        }
+    }
+}
